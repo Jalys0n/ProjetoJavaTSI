@@ -1,0 +1,9 @@
+Herança. ok
+Polimorfismo.
+Classe abstrata. ok
+Interface. ok
+Encapsulamento. ok
+Métodos ou atributo estáticos.
+Tratamento de exceção; ok
+ArrayList;
+
